@@ -1,4 +1,4 @@
-# A first-level heading- 👋 Hi, I’m @Gowther1202
+# 👋 Hi, I’m @Gowther1202
 - 👀 I’m interested in ... music, martial arts, videogames, books and play instruments
 - 🌱 I’m currently learning ... data ingenery 
 - 📫 How to reach me ... nowhere
