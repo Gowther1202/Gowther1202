@@ -1,4 +1,4 @@
-# ***👋 Hi, I’m @Gowther1202***
+# ***👋 Hi, I’m Gowther***
 - 👀 I like ... music, martial arts, videogames, books and play instruments
 - 🌱 I’m currently studing ... data ingenery 
 - 📫 How to reach me ... nowhere and the stars :p 
